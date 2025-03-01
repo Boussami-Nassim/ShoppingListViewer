@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ShoppingListViewer/static/css/main.91628f30.css",
-    "main.js": "/ShoppingListViewer/static/js/main.070bb15c.js",
+    "main.js": "/ShoppingListViewer/static/js/main.b4a48e1a.js",
     "static/media/poppins-latin-400-normal.woff": "/ShoppingListViewer/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
     "static/media/poppins-latin-400-normal.woff2": "/ShoppingListViewer/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
     "static/media/poppins-latin-ext-400-normal.woff": "/ShoppingListViewer/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
     "static/media/poppins-latin-ext-400-normal.woff2": "/ShoppingListViewer/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
     "index.html": "/ShoppingListViewer/index.html",
     "main.91628f30.css.map": "/ShoppingListViewer/static/css/main.91628f30.css.map",
-    "main.070bb15c.js.map": "/ShoppingListViewer/static/js/main.070bb15c.js.map"
+    "main.b4a48e1a.js.map": "/ShoppingListViewer/static/js/main.b4a48e1a.js.map"
   },
   "entrypoints": [
     "static/css/main.91628f30.css",
-    "static/js/main.070bb15c.js"
+    "static/js/main.b4a48e1a.js"
   ]
 }
