@@ -29,7 +29,7 @@ const ShoppingListPage = () => {
       {[...Array(20)].map((_, index) => (
         <img
           key={index}
-          src={`/icons/fruit/fruit${Math.floor(Math.random() * 8 + 1)}.png`}
+          src={`${process.env.PUBLIC_URL}/icons/fruit/fruit${Math.floor(Math.random() * 8 + 1)}.png`}
           alt="fruit"
           style={{
             position: "absolute",
